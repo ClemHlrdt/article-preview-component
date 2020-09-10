@@ -6,6 +6,8 @@
 
 Here is my solution for the Article preview component challenge.
 
+The component can be seen by clicking [here](https://clemhlrdt.github.io/article-preview-component/index.html).
+
 ## The challenge
 
 Your challenge is to build out this article preview component and get it looking as close to the design as possible.
