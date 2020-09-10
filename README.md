@@ -6,7 +6,7 @@
 
 Here is my solution for the Article preview component challenge.
 
-The component can be seen by clicking [here](https://clemhlrdt.github.io/article-preview-component/index.html).
+The component can be seen by clicking [here](https://clemhlrdt.github.io/article-preview-component).
 
 ## The challenge
 
